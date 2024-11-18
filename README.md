@@ -1,2 +1,3 @@
-# UT_ClassWork
-This is a repo of my UT classwork
+# ECE 445L - Embedded Systems Lab
+
+I have included all labs completed during this course.
